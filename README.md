@@ -201,6 +201,9 @@ The Power BI dashboard includes:
 - **Query Coverage:** 8 comprehensive business questions answered
 - **Visualization Dashboards:** 1 interactive Power BI file
 
+## Presentation file
+- Click [here](https://docs.google.com/presentation/d/16Es8KztYqmv2DqoCeca5_HbVAM3-jLbC/edit?usp=sharing&ouid=109591633878932116687&rtpof=true&sd=true)
+
 ## Learning Outcomes
 
 This project demonstrates:
